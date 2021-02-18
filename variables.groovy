@@ -1,0 +1,1 @@
+env.ARTIFACT="wordcount-job-1.0-SNAPSHOT.jar"
